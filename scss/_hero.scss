@@ -11,7 +11,6 @@
     height: 100%;
     margin: 0 auto;
     padding-top: 20px;
-    
 }
 
 &__header {
@@ -31,8 +30,7 @@
     position: absolute;
     bottom: 0;
     right: 0;
-    clip-path: polygon(10% 0, 100% 0, 100% 83%, 90% 100%, 0 100%, 0 17%);
-    
+    clip-path: polygon(10% 0, 100% 0, 100% 83%, 90% 100%, 0 100%, 0 17%);  
 }
 
 &__title {
